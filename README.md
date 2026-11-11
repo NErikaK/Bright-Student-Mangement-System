@@ -101,6 +101,25 @@ This project was developed to practise and strengthen practical Java backend dev
 - Transaction management
 - Batch processing
 
+  
+## Application Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Create and Read Student
+![Create and Read](screenshots/create-read.png)
+
+### Update and Delete Student
+![Update and Delete](screenshots/update-delete.png)
+
+### Department Transfer
+![Department Transfer](screenshots/department-transfer.png)
+
+### Batch Insertion
+![Batch Insertion](screenshots/batch-insertion.png)
+
+
 ## Author
 
 Nang Eaindra Kyaw
